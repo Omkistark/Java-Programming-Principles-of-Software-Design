@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PhraseFilter
+comment0.text=\r\nWrite\ the\ class\ PhraseFilter\ that\ implements\ Filter.\ \r\nThis\ class\ should\ include\ two\ private\ instance\ variables\ for\ \r\n\r\n1)\ a\ String\ representing\ the\ type\ of\ request\ that\ indicates\ where\ to\ search\ in\ the\ title\ \r\nand\ has\ one\ of\ three\ values\:\ (\u201Cstart\u201D,\ \u201Dend\u201D,\ or\ \u201Cany\u201D),\ and\ \r\n\r\n2)\ a\ String\ indicating\ the\ phrase\ to\ search\ for\ in\ the\ title\ of\ the\ earthquake\ \r\n(Note\ the\ title\ of\ the\ earthquake\ can\ be\ obtained\ through\ the\ getInfo\ method).\ \r\n\r\nThis\ class\ also\ has\ a\ constructor\ to\ initialize\ those\ variables,\ and\ a\ satisfies\ method\ \r\nthat\ returns\ true\ if\ the\ phrase\ is\ found\ at\ the\ requested\ location\ in\ the\ title.\ \r\nIf\ the\ phrase\ is\ not\ found,\ this\ method\ should\ return\ false.\r\n
+comment1.params=pos\ phr
+comment1.target=PhraseFilter(java.lang.String,\ java.lang.String)
+comment2.params=qe
+comment2.target=boolean\ satisfies(QuakeEntry)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+numComments=4
