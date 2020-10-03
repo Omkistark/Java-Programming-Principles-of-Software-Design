@@ -1,4 +1,4 @@
-# Comment Out Code as per requirements of the quiz!
+# Comment Out Code as per the requirements of the quiz!
 
 
 Resource Link: http://www.dukelearntoprogram.com/course4/index.php
